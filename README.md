@@ -1,0 +1,2 @@
+# pcspot
+pcspot manager 
